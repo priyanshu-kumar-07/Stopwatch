@@ -41,8 +41,7 @@ Stopwatch-Project/
 
 ✅ Task Completed As Part Of:-
 
-Web Development Internship @Prodigy Infotech 
-#WebDevelopment #Javascript #Css #Html #Stopwatch #Internship #ProdigyInfotech
+#WebDevelopment #Javascript #Css #Html #Stopwatch 
 
 
 📂 Access Output:-
